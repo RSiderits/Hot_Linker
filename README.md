@@ -20,6 +20,7 @@ Instructions:
    then it creates an HTML with links to NCBI
 6) Runs a control to make sure the cross reference is working: "Thiomargarita magnifica"
 7) The script waits 2 seconds and then opens the HTML doc (titled: zzz.html) in the default browser.
+8) Sorts organism list on "Reads"
 
 Requires import:
 
