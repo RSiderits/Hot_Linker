@@ -1,5 +1,5 @@
 # Hot_Linker
-Creates HTML that maps Kraken Metagenomics Excel output to NCBI Dashboard, checks hotlist of organisms
+Creates HTML that formats organisms from a Kraken Metagenomics Excel output file to NCBI Dashboard, then checks a hotlist of organisms against the main file.
 
 This py script takes the excel file that reuslts from a kraken metagenomics anlysis.
 
